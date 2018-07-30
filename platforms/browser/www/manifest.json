@@ -1,0 +1,19 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Navbar2",
+  "short_name": "New App 2",
+  "version": "com.appbuilder.navbar2",
+  "description": "Another App Builder app",
+  "author": "App Builder",
+  "icons": [
+    {
+      "src": "res/icon.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    }
+  ],
+  "orientation": "portrait",
+  "start_url": "index.html",
+  "theme_color": "#000000"
+}
